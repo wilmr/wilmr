@@ -14,4 +14,4 @@ I live in the Bay Area. I like music, good food, being outside, and coding.
 * <a href="https://github.com/jacobmcanepa/music-market">music market</a> - E-Commerce with music
 * <a href="https://github.com/wilmr/Music-en-Vivo">Music-en-Vivo</a> - music show finder
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmr&show_icons=true&theme=dark)
+![Wilmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilmr&show_icons=true&theme=dark)
